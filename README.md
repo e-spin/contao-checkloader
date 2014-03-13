@@ -14,5 +14,8 @@ Einfach die Datei "contao-checkloader.php" in das Basisverzeichnis der vorhanden
 ## Ausführung
 Die Domain + die Datei aufrufen z.B. http://www.meine-domain.de/contao-checkloader.php
 
+## De-Installation
+Ordner "/check" und die Datei "contao-checkloader.php" löschen.
+
 
 Viel Spaß und "Zeitgewinn" ;-)
