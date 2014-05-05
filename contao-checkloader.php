@@ -27,7 +27,7 @@ class ContaoCheckDownloader
      * Source URL
      * @var string
      */
-    protected $strUrl = 'https://github.com/contao/check/archive/master.zip';
+    protected $strUrl = 'https://codeload.github.com/contao/check/zip/master';
     
     /**
      * Zip-File
