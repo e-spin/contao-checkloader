@@ -10,7 +10,7 @@
  * @author  Ingolf Steinhardt <info@e-spin.de> 
  * @author  Codefog <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
- * @license Commercial
+ * @license LGPLv3
  */
 
 define('TL_ROOT', dirname(__FILE__));
